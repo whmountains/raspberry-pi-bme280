@@ -2,7 +2,7 @@
 Modified BSD License
 ====================
 
-Copyright © 2016, Andrei Vainik
+Copyright © 2016, Andrei Vainik and Caleb Whiting
 All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
@@ -37,7 +37,7 @@ https://projects.drogon.net/raspberry-pi/wiringpi/i2c-library/
 #ifndef __BME280_H__
 #define __BME280_H__
 
-#define BME280_ADDRESS                0x76
+#define BME280_ADDRESS                0x77
 
 #define BME280_REGISTER_DIG_T1        0x88
 #define BME280_REGISTER_DIG_T2        0x8A
