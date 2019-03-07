@@ -55,7 +55,7 @@ https://github.com/adafruit/Adafruit_BME280_Library/blob/master/Adafruit_BME280.
 #include <time.h>
 #include <math.h>
 #include <wiringPiI2C.h>
-#include "bme280.h"
+#include "bme280-76.h"
 
 int main()
 {

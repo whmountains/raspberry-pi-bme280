@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "bme280-77.h": "c",
+        "bme280-76.h": "c"
+    }
+}
